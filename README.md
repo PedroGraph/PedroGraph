@@ -25,7 +25,7 @@
  <a href="https://www.linkedin.com/in/pedrojosmed/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <a href="[https://instagram.com/_alsiam](https://www.instagram.com/peterjmed/)" target="_blank">
+ <a href="https://www.instagram.com/peterjmed" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
 </p>
