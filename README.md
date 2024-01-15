@@ -90,7 +90,7 @@
 
 <p align="center">
   <a href="https://github.com/PedroGraph">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="PedroGraph's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroGraph&theme=radical" alt="PedroGraph's GitHub Contribution"/>
   </a>
 </p>
 
