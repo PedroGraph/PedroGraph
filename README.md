@@ -72,7 +72,7 @@
 ## Top Open Source -
 [![TranscApp](https://github-readme-stats.vercel.app/api/pin/?username=PedroGraph&repo=TranscApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PedroGraph/TranscApp)
 [![PedroEcommerce](https://github-readme-stats.vercel.app/api/pin/?username=PedroGraph&repo=PedroEcommerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PedroGraph/PedroEcommerce)
-[![Discretas](https://github-readme-stats.vercel.app/api/pin/?username=Pedrograph&repo=Discretas-Front&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PedroGraph/Discretas-Front)
+[![Discretas-Front](https://github-readme-stats.vercel.app/api/pin/?username=PedroGraph&repo=Discretas-Front&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PedroGraph/Discretas-Front)
 
 <p align="left">
   <a href="https://github.com/PedroGraph?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
