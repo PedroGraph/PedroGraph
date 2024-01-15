@@ -50,6 +50,8 @@
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![PHP](https://img.shields.io/badge/PHP-7B7FB5?style=for-the-badge&labelColor=black&logo=php&logoColor=7B7FB5)
+![Laravel](https://img.shields.io/badge/Laravel-FF3427?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF3427)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
@@ -62,8 +64,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2BBAEC?style=for-the-badge&labelColor=black&logo=docker&logoColor=2BBAEC)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Docker](https://img.shields.io/docker/image-size/:user/:repo/:tag)
 
 
 
