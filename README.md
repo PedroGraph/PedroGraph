@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/3b816458-9bbd-40b6-ae8f-2bbfaea03d0b)
 
 
 
@@ -72,9 +72,8 @@
 <br/>
 
 ## Top Open Source -
-[![TranscApp](https://github-readme-stats.vercel.app/api/pin/?username=PedroGraph&repo=TranscApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PedroGraph/TranscApp)
-[![PedroEcommerce](https://github-readme-stats.vercel.app/api/pin/?username=PedroGraph&repo=PedroEcommerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PedroGraph/PedroEcommerce)
-[![Discretas-Front](https://github-readme-stats.vercel.app/api/pin/?username=PedroGraph&repo=Discretas-Front&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PedroGraph/Discretas-Front)
+[![adminPanel-discreta-seduccion](https://github-readme-stats.vercel.app/api/pin/?username=PedroGraph&repo=adminPanel-discreta-seduccion&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/PedroGraph/TranscApp](https://github.com/PedroGraph/adminPanel-discreta-seduccion))
+[![Colombia-Bot](https://github-readme-stats.vercel.app/api/pin/?username=PedroGraph&repo=Colombia-Bot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/PedroGraph/Discretas-Front](https://github.com/PedroGraph/Colombia-Bot))
 
 <p align="left">
   <a href="https://github.com/PedroGraph?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
